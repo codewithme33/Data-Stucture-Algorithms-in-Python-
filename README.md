@@ -15,6 +15,8 @@ This repository contains my Data Structures & Algorithms preparation using Pytho
 - `theory/` → Short notes
 - `problems/` → Solved problems
 - `patterns/` → Problem-solving techniques
+- `notes/` → Quick Revision
+- `utils/` → Re-usable classes in multiple problems
 
 ## 📊 Progress Tracker
 | Topic | Problems |
@@ -33,4 +35,4 @@ This repository contains my Data Structures & Algorithms preparation using Pytho
 - Python 🐍
 
 ## 🎯 Goal
-Build strong problem-solving skills and crack coding interviews 🚀
+Build strong problem-solving skills.
